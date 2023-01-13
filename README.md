@@ -41,7 +41,7 @@ I'm a developer who loves building front-end applications & learning new technol
     </a>&nbsp;
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTiger07)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <div align="center">
 <h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
