@@ -43,6 +43,27 @@ I'm a developer who loves building front-end applications & learning new technol
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NTiger07)](https://github.com/anuraghazra/github-readme-stats)
 <br />
+<div align="center">
+<h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
+
+<p align="center">
+  <a href="https://github.com/ashrafchowdury">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NTiger07&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
+  </a>
+</p>
+</div
+
+
+<br />
+ 
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 
 
 
