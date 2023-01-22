@@ -46,7 +46,7 @@ I'm a developer who loves building front-end applications & learning new technol
 <div align="center">
 <h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
 
-<p align="center">
+<p align="center" display="flex">
   <a href="https://github.com/NTiger07">
    <img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NTiger07&theme=dark&hide_border=true&icon_color=68ACFE&layout=compact'>
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
