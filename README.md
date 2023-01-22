@@ -48,8 +48,9 @@ I'm a developer who loves building front-end applications & learning new technol
 
 <p align="center">
   <a href="https://github.com/NTiger07">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NTiger07&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
+   <img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NTiger07&theme=dark&hide_border=true&icon_color=68ACFE'>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=NTiger07&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
   </a>
 </p>
 </div
