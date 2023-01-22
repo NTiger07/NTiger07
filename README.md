@@ -44,13 +44,13 @@ I'm a developer who loves building front-end applications & learning new technol
 
 <br />
 <div align="center">
-<h3 align="center" style="margin: 5px 10px;">GITHUB STATES</h3> 
+<h3 align="center" style="margin: 5px 10px;">GITHUB STATS</h3> 
 
-<p align="center" display="flex">
-  <a href="https://github.com/NTiger07">
-   <img width="30%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NTiger07&theme=dark&hide_border=true&icon_color=68ACFE&layout=compact'>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=NTiger07&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
+<p align="center">
+  <a href="https://github.com/NTiger07" display="flexbox" flex-wrap="wrap">
+   <img width="49.5%" height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NTiger07&theme=dark&hide_border=true&icon_color=68ACFE&layout=compact'>
+  <img width="49.5%" height="200px" src="https://github-readme-stats.vercel.app/api?username=NTiger07&show_icons=true&theme=dark&hide_border=true&icon_color=68ACFE" />
+  <img width="49.5%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NTiger07&theme=dark&hide_border=true&ring=68ACFE&fire=FFC400&currStreakLabel=68ACFE" />
   </a>
 </p>
 </div
