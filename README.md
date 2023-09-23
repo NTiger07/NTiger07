@@ -18,6 +18,7 @@ I'm a developer who loves building front-end applications & learning new technol
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50px" />&nbsp;
