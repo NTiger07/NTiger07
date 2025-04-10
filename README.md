@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Favour Olaleru 👋</h1>
-<h3 align="center">I’m a Front-End Developer 💻</h3>
+<h3 align="center">I’m a Fullstack Developer 💻</h3>
 
 <p align="center">
-I'm a developer who loves building front-end applications & learning new technologies. I've also helped people develop their web apps. I've been working with React.js for over a year now. My goal is to be able to build applications that are fast, responsive, and fun to use.
+I specialize in building fullstack web applications with clean, intuitive interfaces and robust, scalable architecture. I work with TypeScript and frameworks like React and Next.js on the frontend, while using Node.js, Express and MongoDB to handle the backend and data logic.
 </p>
 
 
@@ -13,13 +13,15 @@ I'm a developer who loves building front-end applications & learning new technol
 
 <div align="center">
 
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50px" />&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50px" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="MUI" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Reactjs" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="50px" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50px" />&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50px" />&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="50px" />&nbsp;
@@ -36,9 +38,6 @@ I'm a developer who loves building front-end applications & learning new technol
 <div align="center">
     <a  href="https://www.linkedin.com/in/favour-olaleru-1a5133218/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="In" width="50px"/>
-    </a>&nbsp;
-    <a href="https://twitter.com/FavourOlaleru" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="Twitter" width="50px" />
     </a>&nbsp;
 </div>
 
