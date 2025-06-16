@@ -36,8 +36,8 @@ I specialize in building fullstack web applications with clean, intuitive interf
 
 <h2 align="center">CONNECT WITH ME 💬</h2>
 <div align="center">
-    <a  href="https://www.linkedin.com/in/favourolaleru/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="In" width="50px"/>
+    <a  href="https://x.com/ipomjiuy" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="X" width="50px"/>
     </a>&nbsp;
 </div>
 
