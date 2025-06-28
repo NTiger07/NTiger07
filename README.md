@@ -39,7 +39,7 @@ I specialize in building fullstack web applications with clean, intuitive interf
     <a  href="https://www.linkedin.com/in/favour-o-799755223/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="X" width="50px"/>
     </a>&nbsp;
-    <a  href="https://x.com/ipomjiuy" target="_blank">
+    <a  href="https://x.com/freddie_defi" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="X" width="50px"/>
     </a>&nbsp;
 </div>
