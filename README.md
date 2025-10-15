@@ -40,10 +40,10 @@ I also have experience with Express.js and MongoDB, which helps me understand th
 
 <h2 align="center">CONNECT WITH ME 💬</h2>
 <div align="center">
-    <a  href="https://www.linkedin.com/in/olalerufavour/" target="_blank">
+    <a  href="https://www.linkedin.com/in/favolaleru/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="X" width="50px"/>
     </a>&nbsp;
-<!--     <a  href="https://x.com/freddie_defi" target="_blank">
+<!--     <a  href="https://x.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="X" width="50px"/> -->
     </a>&nbsp;
 </div>
