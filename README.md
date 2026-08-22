@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Favour Olaleru 👋</h1>
-<h3 align="center">Fullstack Engineer & Mathematics Student 💻</h3>
+<h3 align="center">Software & Applied AI Engineer</h3>
 
 <p align="center">
-I'm a fullstack engineer and Mathematics student at the University of Lagos. I specialize in building scalable backend systems including auth, real-time infra, and APIs, and integrating AI to make products smarter.
+I'm a Software engineer and CS & Math student at the University of Lagos. I specialize in building scalable backend systems including auth, real-time infra, and APIs, and integrating AI to make products smarter.
 </p>
 
 <p align="center">
